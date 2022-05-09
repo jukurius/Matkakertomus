@@ -1,0 +1,31 @@
+GET http://localhost:3002/api/sights
+###
+
+GET http://localhost:3002/api/users
+###
+
+GET http://localhost:3002/api/sights/6203d1a99b74ea41bf8ff396
+Content-Type: application/json
+
+###
+
+POST http://localhost:3002/api/sights
+Content-Type: application/json
+
+{
+"destination":"Testimäki",
+"country":"Finland",
+"city":"kuopio",
+"description":"Täällä on ihmisen hyvä olla",
+"picture":"wwww.url.fi"
+}
+
+###
+
+POST http://localhost:3002/api/login
+Content-Type: application/json
+
+{
+"email":"testaaja@posti.fi",
+"password": "Test"
+}

@@ -1,0 +1,36 @@
+.Hero {
+  height: 93.9vh;
+  background-image: url(/src/images/Hero.png);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.heroheaderr {
+  font-size: 8vh !important;
+  font-weight: bold !important;
+  padding-top: 40vh !important;
+  letter-spacing: 4px !important;
+  margin-top: 0 !important;
+}
+.subheader {
+  font-size: 32px !important;
+  font-weight: bold !important;
+}
+.hero-buttons {
+  margin-top: 100px !important;
+}
+.hero-buttons > Button {
+  padding: 10px !important;
+  color: #ffff !important;
+  font-size: 20px;
+}
+.blokkaus {
+  font-size: 32px !important;
+  font-weight: bold !important;
+}
+.herobtn {
+  padding: 10px !important;
+  color: #ffff !important;
+  font-size: 20px;
+}

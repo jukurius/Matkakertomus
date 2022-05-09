@@ -1,0 +1,30 @@
+
+.kortti-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card-body {
+    text-align: center;
+}
+.viiva {
+    width: 52vh;
+    margin: auto;
+    margin-bottom: 60px;
+}
+.cardd {
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+    border: none;
+}
+.button-container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-container > Button {
+    padding: 10px;
+    font-size: 20px;
+}

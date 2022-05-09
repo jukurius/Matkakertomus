@@ -1,0 +1,46 @@
+
+.inner-section-container {
+    padding-top: 0;
+}
+h1 {
+    margin-top: 80px !important;
+}
+.select-container {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+}
+.matkat-container {
+    margin-top: -80px;
+}
+.add-sight-form {
+    margin: 40px;
+}
+#dropdown-basic-button {
+    display: block;
+    color: black;
+}
+.card {
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+    border: none;
+}
+.card:hover {
+    transition-duration: 200ms;
+    transform: scale(1.02);
+    box-shadow: 0 7px 30px -5px rgba(150,170,180,0.8);
+}
+.flex-container {
+    gap: 20px;
+}
+.kortti {
+    opacity: 0.6;
+}
+.private {
+    position: absolute;
+    top: 10vh;
+    left: 4vh;
+    transform: rotate(-32deg);
+    font-size: 60px;
+    color: #434343;
+    opacity: 1;
+}
