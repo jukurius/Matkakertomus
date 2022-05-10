@@ -1,5 +1,5 @@
 # Matkakertomus
-Matkakertomus on Ohjelmistotuotanto 2 -kurssin projektityö, joka toteuttaa MERN-pinoa.
+Matkakertomus on Ohjelmistotuotanto 2 -kurssin (10 op) projektityö, joka toteuttaa MERN-pinoa.
 ## Tekijät:
 ###### Front-end
 - Juuso
